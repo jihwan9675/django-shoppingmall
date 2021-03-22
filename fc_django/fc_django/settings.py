@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'fcuser',
     'order',
     'product',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
